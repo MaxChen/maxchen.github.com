@@ -564,10 +564,10 @@ body .fn-hide {
 }
 .board .company{
 
-    font-size: 60px;
+    font-size: 40px;
     color:#f6f634;
     padding:0 10px;
-    font-family: "intro";
+    font-family: "pixel-g";
     text-decoration: none;
 
 }
@@ -578,13 +578,13 @@ body .fn-hide {
 .board .times{
     padding:10px;
     font-size: 30px;
-    font-family: 'intro';
+    font-family: 'pixel-g';
     color:#31af39;
 }
 
 .board .brief{
     font-family: 'intro';
-	font-size: 25px;
+	/*font-size: 25px;*/
     padding:10px;
 }
 .board p a{
